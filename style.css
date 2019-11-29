@@ -1,0 +1,25 @@
+#vert{
+    position: absolute;
+    z-index: 0;
+    top:0;
+}
+
+
+#orange{
+    position: absolute;
+    z-index: 5;
+    top: 0;
+}
+
+#rouge{
+    position: absolute;
+    z-index: 2;
+    top:0;
+}
+
+#bouton{
+    display: flex;
+    position: fixed;
+    margin-top: 400px;
+    margin-left: 100px;
+}
