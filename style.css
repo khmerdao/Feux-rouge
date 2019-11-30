@@ -1,19 +1,24 @@
-#vert{
+#init{
     position: absolute;
     z-index: 0;
     top:0;
 }
 
+#vert{
+    position: absolute;
+    z-index: 3;
+    top:0;
+}
 
 #orange{
     position: absolute;
-    z-index: 5;
+    z-index: 2;
     top: 0;
 }
 
 #rouge{
     position: absolute;
-    z-index: 2;
+    z-index: 1;
     top:0;
 }
 
